@@ -64,23 +64,88 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-VXT is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
+VXT provides AI-powered call and meeting note automation for law firms, turning conversations into structured legal paperwork, call recordings, time tracking, and email drafts. Integrated with major legal software, it aims to recover extra billable minutes and streamline workflow for lawyers.
 
-**Areas:** Company
+**Areas:** Company · AI · LegalTech · CallAutomation · SaaS
 
 ## VXT on APIs.io
 
 Everything profiled for VXT is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/vxt/](https://apis.io/providers/vxt/)** — or go straight to one of the APIs or properties below.
 
+### APIs (1)
+
+- [VXT API](https://apis.io/apis/vxt/vxt-api/) — API for VXT AI-powered call and meeting note automation platform
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Vxt Domain Security](https://apis.io/security/vxt/vxt-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Vxt Plans Pricing](https://apis.io/plans/vxt/vxt-plans-pricing/)
+
 ## Where to find this API
 
 Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
-- [Website](https://vxt.ai/)
+- [Website](https://www.vxt.ai/)
+- [Pricing](https://www.vxt.ai/pricing)
+- [Support](https://support.vxt.co.nz/)
+- [Changelog](https://www.vxt.ai/changelog)
+- [Blog](https://www.vxt.ai/blog)
+- [Terms of service](https://www.vxt.ai/legal/terms-of-service)
+- [Privacy policy](https://www.vxt.ai/legal/privacy-policy)
 
 ## API Evangelist rating
 
-Not yet rated. See [apis.io/providers/vxt/](https://apis.io/providers/vxt/).
+**Kin Score 24.9** — emerging · rubric 0.25.0 · scored 2026-10-29
+
+| Facet | Score |
+|---|---|
+| Discoverability | 60.7 |
+| Contract quality | 0.0 |
+| Contract governance | 16.4 |
+| Operational transparency | 23.7 |
+| Developer ergonomics | 7.1 |
+| Access clarity | 60.0 |
+
+**Agent readiness 9.9** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | unknown |
+| Agent Skills | — |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+
+**Regulatory alignment 17.3** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/vxt/](https://apis.io/providers/vxt/).
 
 ## How this profile is made
 
